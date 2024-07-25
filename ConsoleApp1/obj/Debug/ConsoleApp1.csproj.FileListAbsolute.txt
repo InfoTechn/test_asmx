@@ -1,0 +1,33 @@
+C:\Users\lbarnett\Downloads\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lbarnett\Downloads\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lbarnett\Downloads\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lbarnett\Downloads\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lbarnett\Downloads\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\lbarnett\Downloads\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\BasicWebService-master\BasicWebService-master\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx\Test_asmx\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx\Test_asmx\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx\Test_asmx\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg\Test_asmx\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg\Test_asmx\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg\Test_asmx\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg1\Test_asmx\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg1\Test_asmx\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg1\Test_asmx\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg1\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg1\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg1\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lbarnett\OneDrive - usasoftball.com\Desktop\Test_asmx_bg1\Test_asmx\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
